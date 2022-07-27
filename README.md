@@ -2,23 +2,8 @@
 
 **由於 google 不喜歡 Ruki，一直認為我是機器人，所以以下教學都以半自動為主，全自動爬蟲功能還未完善**
 
-## 下載軟體
-
 ## 安裝軟體
-1. python 3.X **(不要使用 3.11 以上版本)**
-> [下載連結](https://www.python.org/downloads/)
-> 安裝 Python 3.7 和 pip (Windows)
-> - 從 Python.org 的下載頁面下載 Python 3.7 Windows x86-64 可執行檔安裝程式。
-> - 執行安裝程式。
-> - 選擇 Add Python 3.7 to PATH (將 Python 3.7 新增到 PATH)。
-> - 選擇 Install Now (立即安裝)。
-> - 安裝程式將 Python 安裝到使用者資料夾中，並將其可執行目錄新增到使用者路徑中。
-
-2. Visual Studio Code
-> Windows Store 搜尋 Visual Studio Code 下載即可
-> ![](https://i.imgur.com/7QUGmew.png)
-
-3. 點擊打開 "環境安裝.bat" 讓它完整執行
+1. 點擊打開 "環境安裝.bat" 讓它完整執行
     >![](https://i.imgur.com/R9cMj3w.png)
     > ### 若出現下方附圖情形，表示 python 環境變數未設定，請參考[此連結](https://ithelp.ithome.com.tw/articles/10257693)修正
     > ![](https://i.imgur.com/R2ZxBNQ.png)

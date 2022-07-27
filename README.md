@@ -4,7 +4,7 @@
 
 ## 安裝軟體
 1. 點擊打開 "環境安裝.bat" 讓它完整執行
-    >![](https://i.imgur.com/vYWzS0N.png)
+    >![](https://i.imgur.com/5pIExUX.png)
     > ### 若出現下方附圖情形，表示 python 環境變數未設定，請參考[此連結](https://ithelp.ithome.com.tw/articles/10257693)修正
     > ![](https://i.imgur.com/R2ZxBNQ.png)
 
